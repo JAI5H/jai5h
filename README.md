@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amr Khaled | ![Profile Views](https://komarev.com/ghpvc/?username=JII6H&label=Profile%20views&color=0e1323&style=flat)
+# 👋 Hi, I'm Amr Khaled | [![Profile Views](https://komarev.com/ghpvc/?username=JII6H&label=Profile%20Views&color=0E1323&style=for-the-badge)](https://github.com/JII6H)
 
 
 <h3 align="center">UI/UX Designer | Web Developer</h3>
